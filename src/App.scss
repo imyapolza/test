@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: #e9d5ff;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.select {
+    margin-left: 10px;
+    border: none;
+    font-size: 20px;
+}
+
+.label {
+    font-size: 20px;
+}
+
+.chart__container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
